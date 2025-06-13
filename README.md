@@ -26,14 +26,6 @@ Gorilla Mux (enrutador HTTP para Go)
 
 JSON para intercambio de datos
 
-## Estructura del proyecto
-css
-Copiar código
-api-rest/
-├── main.go
-├── go.mod
-└── README.md
-
 ##  Instalación y uso
 Clona o copia este repositorio localmente:
 
